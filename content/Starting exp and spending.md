@@ -1,0 +1,2 @@
+- Players start at rate 7, with 17500 EXP to begin with
+- Races start with 15000 racial EXP
