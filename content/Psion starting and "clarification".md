@@ -16,14 +16,14 @@ Other disciplines' (that the Psion has the INT required for) abilities cost $600
 Psions can only buy Psionic abilities as high in rank as the attribute listed for its discipline and can purchase a number of abilities in a single group equal to double the attribute.  
 Note that to learn the next rank of ability in a discipline you must buy at least one ability of the previous rank in that discipline.
 
-| Discipline                                               | Attribute | Note                                                                                       |
-| -------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------ |
-| [[Psionic Abilities#Clairsentience\|Clairsentience]]     | PER       | "abilities allow the user to learn secrets, predict the future, and learn the unknowable." |
-| [[Psionic Abilities#Metacreativity\|Metacreativity]]     | INT       | "abilities create unique constructs out of matter pulled from other dimensions."           |
-| [[Psionic Abilities#Psychokinesis\|Psychokinesis]]       | PWR       | "abilities manipulate matter and energy to create impressive effects."                     |
-| [[Psionic Abilities#Psychometabolism\|Psychometabolism]] | HEA       | "abilities manipulate the body, altering appearance or abilities, or fixing damage."       |
-| [[Psionic Abilities#Psychoportation\|Psychoportation]]   | AGI       | "abilities move objects or creatures through space and time."                              |
-| [[Psionic Abilities#Telepathy\|Telepathy]]               | CSE       | "abilities can read or affect the minds of other creatures."                               |
+| Discipline                                | Attribute | Note                                                                                       |
+| ----------------------------------------- | --------- | ------------------------------------------------------------------------------------------ |
+| [[Psionic Disciplines/Clairsentience/]]   | PER       | "abilities allow the user to learn secrets, predict the future, and learn the unknowable." |
+| [[Psionic Disciplines/Metacreativity/]]   | INT       | "abilities create unique constructs out of matter pulled from other dimensions."           |
+| [[Psionic Disciplines/Psychokinesis/]]    | PWR       | "abilities manipulate matter and energy to create impressive effects."                     |
+| [[Psionic Disciplines/Psychometabolism/]] | HEA       | "abilities manipulate the body, altering appearance or abilities, or fixing damage."       |
+| [[Psionic Disciplines/Psychoportation/]]  | AGI       | "abilities move objects or creatures through space and time."                              |
+| [[Psionic Disciplines/Telepathy/]]        | CSE       | "abilities can read or affect the minds of other creatures."                               |
 
 # Psionic Spellcasting
 The spellcasting resource for Psions is known as Psionic Units or PU.
