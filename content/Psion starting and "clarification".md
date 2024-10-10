@@ -53,12 +53,12 @@ Psions have some specializations available to them at base price.
 | Arcana     | Identify Magic | PER       | 800   |
 | Medicine   | Stabilize Self | WIL       | 400   |
 %%TODO: Add Adventuring Skills document (this will be painful maybe?)%%
-Psions also have some [[Combat Skills#Casting Styles|Casting Styles]] (CS) available to them at base price.
+Psions also have some [[Combat Skills/Casting Styles/]] (CS) available to them at base price.
 
-| Style                                               | Attribute | Cost |
-| --------------------------------------------------- | --------- | ---- |
-| [[Combat Skills#Battle Cast\|Battle Cast (CS)]]     | CSE/4     | 1000 |
-| [[Combat Skills#Deferred Cast\|Deferred Cast (CS)]] | WIL/4     | 2000 |
-| [[Combat Skills#Merciful Cast\|Merciful Cast (CS)]] | CSE/4     | 1000 |
-| [[Combat Skills#Mindful Cast\|Mindful Cast (CS)]]   | PER/4     | 1000 |
-| [[Combat Skills#Reaping Cast\|Reaping Cast (CS)]]   | PWR/4     | 1000 |
+| Style                                          | Attribute | Cost |
+| ---------------------------------------------- | --------- | ---- |
+| [[Combat Skills/Casting Styles/Battle Cast]]   | CSE/4     | 1000 |
+| [[Combat Skills/Casting Styles/Deferred Cast]] | WIL/4     | 2000 |
+| [[Combat Skills/Casting Styles/Merciful Cast]] | CSE/4     | 1000 |
+| [[Combat Skills/Casting Styles/Mindful Cast]]  | PER/4     | 1000 |
+| [[Combat Skills/Casting Styles/Reaping Cast]]  | PWR/4     | 1000 |

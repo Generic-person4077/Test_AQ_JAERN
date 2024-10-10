@@ -1,8 +1,6 @@
 ---
 title: Psion
 draft: false
-tags:
-  - Psion
 ---
 
 # Psion background

@@ -1,0 +1,5 @@
+---
+title: Maintained Cast
+---
+2000, WIL/4, #Mage #Priest    
+You learn how to connect the spell to your magic reserves in a manner that allows it to extend its duration. When the spell reaches the end of its duration it will pull units equal to the original unit cost from the pool to extend the duration by the original spell duration (modified by any relevant finesses). If the spell requires a resistance check from the target, the resistance check must be attempted every time the duration is extended. For each rank, you may have one spell maintained. The spell is no longer maintained if you decide to not extend it, the spell is dropped or revoked, or it cannot pull enough units from the pool due to the pool being insufficient or you hitting the limit of units spent per round. Instantaneous spells cannot be maintained.
