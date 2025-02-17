@@ -9,4 +9,4 @@ The orb can be refilled in two different ways. The caster can transfer any numbe
 
 The ritual can be performed by any mage with 16 ranks of Blood Magic. The caster is also the target. The effect exists as a magical creature ability.  
 
-1,500 gc or 3,000 xp are expanded as the cost of the ritual.
+1,500 gc or 3,000 xp are expended as the cost of the ritual.
