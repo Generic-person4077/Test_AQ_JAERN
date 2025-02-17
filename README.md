@@ -1,3 +1,7 @@
+# AQJ spell database
+
+This is intended to become an easily searchable database of spells, and later skills as well, it uses Quartz to convert an Obsidian vault into a static-html website.
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
