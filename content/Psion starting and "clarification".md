@@ -1,3 +1,7 @@
+---
+title: Psion - Getting Started and General Information
+---
+
 # Introduction
 "A master of the mind, capable of turning thought into powerful magical effects."
 
@@ -14,7 +18,7 @@ Psions can pick up to three disciplines to be "Primary disciplines" which the Ps
 Other disciplines' (that the Psion has the INT required for) abilities cost $600 * rank$
 
 Psions can only buy Psionic abilities as high in rank as the attribute listed for its discipline and can purchase a number of abilities in a single group equal to double the attribute.  
-Note that to learn the next rank of ability in a discipline you must buy at least one ability of the previous rank in that discipline.
+Note that to learn the next rank of ability in a discipline the Psion must buy at least one ability of the previous rank in that discipline.
 
 | Discipline                                | Attribute | Note                                                                                       |
 | ----------------------------------------- | --------- | ------------------------------------------------------------------------------------------ |
@@ -26,8 +30,9 @@ Note that to learn the next rank of ability in a discipline you must buy at leas
 | [[Psionic Disciplines/Telepathy/]]        | CSE       | "abilities can read or affect the minds of other creatures."                               |
 
 # Psionic Spellcasting
-The spellcasting resource for Psions is known as Psionic Units or PU.
+The spellcasting resource for Psions is known as Psionic Units or PU, the rank of Psionic ability is its base cost in PU.  
 
+For each ability you purchase, you gain one PU.
 Psionic unit recovery is based on your WIL attribute, you regenerate PU at a rate equal to your WIL attribute in units over a full rest period.
 You may not spend more Psionic Units in a single round than your WIL attribute.
 

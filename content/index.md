@@ -6,6 +6,8 @@ title: Welcome to my attempt at an online SRD I guess
 >
 >This is a work in progress!
 
-I just updated the [[Psionic Disciplines/]] list, it should be easily search and sort-able.  
+I just updated the [[Elemental Magic/]] list, it now contains all elemental spells, .  
 Check out [[Psion starting and "clarification"]] its what I am working on right now!  
 I also need to work on [[Combat Skills/]], but ill do that later.  
+
+%%TODO: update stuff to 2025 compile%%

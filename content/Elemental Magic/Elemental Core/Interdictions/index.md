@@ -1,0 +1,4 @@
+---
+title: Interdictions
+---
+Interdictions allow a mage to better resist and counter magic of all kinds. These spells cannot be deferred by normal means. This means that magic items containing spells of this group cannot be made by adventurers. Most of the spells in this group have a duration of 2 + 1/F minutes which means the spell will remain dormant until it is activated (the method of activation is described in the spell description itself). Only one of these spells may be activated at a time, but multiple spells may be held on a target concurrently. Additionally, by fully finessing a 1 round cast Interdictions spell, the casting time can be reduced to a reaction that satisfies the activation condition of the spell’s effect.
