@@ -8,4 +8,4 @@ title: 13 – Bind Psionics
 ==Duration:== special*  
 ==Area:== single item  
 ==Effect:== make magic item  
-This ability allows the user to make a psionic magical item. This ability is used in lieu of the Defer spell in the magic item creation process.  
+This ability allows the user to make a psionic magical item. This ability is used in lieu of the [[1–16 – Defer|Defer]] spell in the magic item creation process.  
